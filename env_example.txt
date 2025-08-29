@@ -1,0 +1,10 @@
+# Google Gemini Configuration
+GOOGLE_API_KEY=
+GEMINI_MODEL=gemini-1.5-flash
+
+# Vector Database Configuration
+CHROMA_PERSIST_DIRECTORY=./data/chroma_db
+
+# Agent Configuration
+MAX_TOKENS=500  # Keep low for cost optimization
+TEMPERATURE=0.7  # Lower = more focused, less tokens

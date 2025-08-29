@@ -145,25 +145,6 @@ Edit `ui/streamlit_app.py` to:
 - Add new UI components
 - Modify the chat interface
 
-## 📁 Project Structure
-
-```
-customer_support_ai/
-├── config.py                 # Configuration management
-├── requirements.txt          # Python dependencies
-├── env_example.txt          # Environment variables template
-├── console_app.py           # Console interface
-├── README.md                # This file
-├── data/                    # Data storage
-│   ├── chroma_db/          # Chroma vector database
-│   └── knowledge_base/      # Uploaded documents
-├── models/                  # AI models and agents
-│   └── ai_agent.py         # Customer support agent
-├── utils/                   # Utility functions
-│   └── knowledge_base.py   # Knowledge base manager
-└── ui/                     # User interfaces
-    └── streamlit_app.py    # Streamlit web application
-```
 
 ## 🔧 Configuration Options
 
@@ -220,9 +201,6 @@ customer_support_ai/
 4. Add tests if applicable
 5. Submit a pull request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -238,8 +216,10 @@ If you encounter any issues or have questions:
 1. Check the troubleshooting section above
 2. Review the console logs for error messages
 3. Create an issue in the repository
-4. Contact the development team
+4. Contact me
+
+Fahad Saeed Full Stack AI Engineer 
+"https://fahadsaeed.netlify.app/"
 
 ---
 
-**Happy coding! 🚀**
